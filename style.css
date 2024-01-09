@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+}
+header {
+    background-color:bisque;
+    margin: 0%;
+}
+header h1 {
+    margin: 0px;
+    text-align: center;
+    padding: 10px;
+}
+div .post {
+    background-color: bisque;
+    margin: 15px;
+}
+div .post img {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+div .container {
+    width: 600px;
+    margin: auto;
+}
+div .post h2, div .post p{
+    padding: 10px;
+}
+div .floated-element {
+    display:flex; 
+    justify-content: space-between;
+    align-items: center;
+}
+span {
+    color: black;
+    padding: 20px;
+}
