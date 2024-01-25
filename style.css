@@ -4,6 +4,7 @@ body {
 div {
     background-color: white;
     color: black
+    over
 }
 div.post {
     margin: auto;
