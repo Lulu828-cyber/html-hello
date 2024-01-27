@@ -3,11 +3,7 @@ body {
 }
 div {
     background-color: white;
-    color: black
-    over
-}
-div.post {
-    margin: auto;
+    color: black;
 }
 .Iconos, .header {
     display: flex;
@@ -21,6 +17,7 @@ div.post {
 }
 div.post {
    margin: 526px;
+   margin-top: 100px;
 }
 h1 {
     margin: 0%;
